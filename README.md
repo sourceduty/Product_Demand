@@ -6,7 +6,7 @@
 
 #
 
-Alex: *"This custom GPT is almost a concept but it does generate very accurate reports and it might be improved."*
+> Alex: *"This custom GPT is almost a concept but it does generate very accurate reports and it might be improved."*
 
 #
 ### Related Links
