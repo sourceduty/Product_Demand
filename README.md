@@ -6,7 +6,15 @@
 
 #
 
-> Alex: *"This custom GPT is almost a concept but it does generate very accurate reports and it might be improved."*
+![Plato](https://github.com/sourceduty/Product_Demand/assets/123030236/e0d013dd-ee7d-46d5-a0ea-1e0d879459df)
+
+### Inspired by Plato
+
+"Necessity is the mother of invention" is a proverb or quote created by Plato. This proverb states that the primary driving force behind inventions is a need. 
+
+> Alex: *"I was inspired by Plato when I built this custom GPT titled 'Product Demand' to measure the demand for products using 'consumer necessitation' and it's attributes."*
+
+This newly built custom GPT is very conceptual because of this ancient inspiration.
 
 #
 ### Related Links
